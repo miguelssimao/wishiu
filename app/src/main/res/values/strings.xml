@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">wishiu</string>
+    <string name="hello">Hello ___________ ?</string>
+    <string name="hcomma">Hello, </string>
+    <string name="default_name">Default Name</string>
+    <string name="nome">Your Name</string>
+    <string name="continuar">Continue</string>
+    <string name="confirmar">Confirm</string>
+    <string name="finish">Achieved</string>
+    <string name="remover">Remove</string>
+    <string name="loading">Loading...</string>
+    <string name="wishes">Wishes</string>
+    <string name="achieved">Achieved</string>
+    <string name="scheduled">Scheduled</string>
+    <string name="default_ptitle">Default Price Title</string>
+    <string name="category">Category</string>
+    <string name="insert_t">Product Title</string>
+    <string name="insert_p">$ Price</string>
+    <string name="insert_ss">$ Starting Value</string>
+    <string name="pergunta1">Do you already have any savings?</string>
+    <string name="default_pprice">$0000</string>
+    <string name="default_id">0</string>
+    <string name="add_titulo">Add New Product</string>
+    <string name="openb">Search for this item</string>
+    <string name="default_percentage">50%</string>
+    <string name="add_savings">+ Add Savings</string>
+    <string name="remove_savings">- Remove Savings</string>
+    <string name="default_savings">You added $000 dollars to this saving.</string>
+    <string name="default_date">DD/MM/YYYY</string>
+    <string name="days_left">days left</string>
+    <string name="settings">Settings</string>
+    <string name="pergunta2">What is your name?</string>
+    <string name="setdate">Set Delivery Date</string>
+    <string name="pergunta3">Set the expected date for your product to arrive:</string>
+</resources>
