@@ -20,7 +20,7 @@ This application makes use of [sqlite](https://github.com/sqlite/sqlite) for an 
   <img src="https://github.com/miguelssimao/wishiu/blob/main/screens/6.jpg" width="30%" />
 </p>
 
-# Features
+## Features
 
 | Features | Description |
 | -------- | ----------- |
@@ -30,5 +30,5 @@ This application makes use of [sqlite](https://github.com/sqlite/sqlite) for an 
 | **Progress** | the progress bar shows how much of your goal has already been reached and it is updated everytime you add or remove savings from an item's page |
 | **Searching** | clicking the `Search for this item` button will open a Google search page specific to the item's title |
 | **Achievements** | you can set an item as `Achieved` once you have saved enough to reach its value or if you have already purchased it |
-| **Trackings** | you can set an achieved item as `Scheduled` after a delivery date has been added, and keep track of how much time is left for it to arrive |
+| **Tracking** | you can set an achieved item as `Scheduled` after a delivery date has been added, and keep track of how much time is left for it to arrive |
 | **Settings** | you can set your name (or nickname) in the `Settings` page |
